@@ -1,0 +1,15 @@
+c:\users\xavier\documents\visual studio 2012\Projects\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.exe.config
+c:\users\xavier\documents\visual studio 2012\Projects\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.csprojResolveAssemblyReference.cache
+C:\Users\Xavier\documents\visual studio 2012\Projects\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.exe
+C:\Users\Xavier\documents\visual studio 2012\Projects\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.pdb
+C:\Users\Xavier\documents\visual studio 2012\Projects\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.exe
+C:\Users\Xavier\documents\visual studio 2012\Projects\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.pdb
+C:\Users\Xavier\Desktop\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.exe.config
+C:\Users\Xavier\Desktop\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.exe
+C:\Users\Xavier\Desktop\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.pdb
+E:\Xavier\TEC\2013 II Semestre\Analisis de Algoritmos\Segunda_Progra_Algoritmos\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.exe.config
+E:\Xavier\TEC\2013 II Semestre\Analisis de Algoritmos\Segunda_Progra_Algoritmos\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.exe
+E:\Xavier\TEC\2013 II Semestre\Analisis de Algoritmos\Segunda_Progra_Algoritmos\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.pdb
+E:\Xavier\TEC\2013 II Semestre\Analisis de Algoritmos\Segunda_Progra_Algoritmos\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.exe
+E:\Xavier\TEC\2013 II Semestre\Analisis de Algoritmos\Segunda_Progra_Algoritmos\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\bin\Debug\SecondProjectPSS.pdb
+E:\Xavier\TEC\2013 II Semestre\Analisis de Algoritmos\Segunda_Progra_Algoritmos\Segunda Progra Algoritmos\SecondProjectPSS\SecondProjectPSS\obj\Debug\SecondProjectPSS.csprojResolveAssemblyReference.cache
